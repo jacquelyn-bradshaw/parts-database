@@ -1,0 +1,3 @@
+CREATE DATABASE Parts;
+
+USE Parts;
