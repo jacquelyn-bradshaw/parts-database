@@ -40,5 +40,5 @@ brew services start mysql
 If mysql has authenticaton enabled, you can include your password in the command line.
 
 ```
-mysql -p  < parts.sql
+mysql -p < parts.sql
 ```
