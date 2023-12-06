@@ -16,6 +16,12 @@ mysql < parts.sql
 mysql < insert_data.sql
 ```
 
+## Run queries
+
+```
+mysql < queries.sql
+```
+
 ## MySQL Guidance
 
 Details on how to install mysql and authenticate (if needed).
